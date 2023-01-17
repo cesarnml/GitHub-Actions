@@ -2,56 +2,57 @@
 
 - [GitHub Actions](#github-actions)
   - [Lessons](#lessons)
+  - [Notes](#notes)
 
 ## Lessons
 
-- [ ] Lesson 001
-- [ ] Lesson 002
-- [ ] Lesson 003
-- [ ] Lesson 004
-- [ ] Lesson 005
-- [ ] Lesson 006
-- [ ] Lesson 007
-- [ ] Lesson 008
-- [ ] Lesson 009
-- [ ] Lesson 010
-- [ ] Lesson 011
-- [ ] Lesson 012
-- [ ] Lesson 013
-- [ ] Lesson 014
-- [ ] Lesson 015
-- [ ] Lesson 016
-- [ ] Lesson 017
-- [ ] Lesson 018
-- [ ] Lesson 019
-- [ ] Lesson 020
-- [ ] Lesson 021
-- [ ] Lesson 022
-- [ ] Lesson 023
-- [ ] Lesson 024
-- [ ] Lesson 025
-- [ ] Lesson 026
-- [ ] Lesson 027
-- [ ] Lesson 028
-- [ ] Lesson 029
-- [ ] Lesson 030
-- [ ] Lesson 031
-- [ ] Lesson 032
-- [ ] Lesson 033
-- [ ] Lesson 034
-- [ ] Lesson 035
-- [ ] Lesson 036
-- [ ] Lesson 037
-- [ ] Lesson 038
-- [ ] Lesson 039
-- [ ] Lesson 040
-- [ ] Lesson 041
-- [ ] Lesson 042
-- [ ] Lesson 043
-- [ ] Lesson 044
-- [ ] Lesson 045
-- [ ] Lesson 046
-- [ ] Lesson 047
+- [ ] Lesson 001 - Welcome to the Course!
+- [ ] Lesson 002 - What is "GitHub Actions"
+- [ ] Lesson 003 - Git, GitHub and GitHub Actions
+- [ ] Lesson 004 - About this course
+- [ ] Lesson 005 - Module introduction
+- [ ] Lesson 006 - Getting started with Git
+- [ ] Lesson 007 - Project setup
+- [ ] Lesson 008 - Working with (Local) Git Repositories
+- [ ] Lesson 009 - Staging Files and Creating Commits
+- [ ] Lesson 010 - Multiple Commits & Checking Out Snapshots
+- [ ] Lesson 011 - Reverting Changes with `git revert`
+- [ ] Lesson 012 - Resetting Code with `git reset`
+- [ ] Lesson 013 - Staging Multiple Files & Ignoring with gitignore
+- [ ] Lesson 014 - Understanding Branches
+- [ ] Lesson 015 - Working with Branches
+- [ ] Lesson 016 - Merging Branches
+- [ ] Lesson 017 - GitHub Introduction
+- [ ] Lesson 018 - Creating a GitHub Account
+- [ ] Lesson 019 - Creating a (Remote) GitHub Repository
+- [ ] Lesson 020 - Connecting Local & Remote Repositories
+- [ ] Lesson 021 - Pushing Commits & Understanding Permissions
+- [ ] Lesson 022 - GitHub & Branches
+- [ ] Lesson 023 - Readme Files & Pulling Changes
+- [ ] Lesson 024 - Cloning Repositories
+- [ ] Lesson 025 - Making Changes as a Different User (Non-Owner)
+- [ ] Lesson 026 - GitHub Issues & Collaborators
+- [ ] Lesson 027 - Working with Pull Requests
+- [ ] Lesson 028 - Understanding & Using Forks
+- [ ] Lesson 029 - Module Summary
+- [ ] Lesson 030 - Module Introduction
+- [ ] Lesson 031 - Key Components: Workflows, Jobs, Steps & More
+- [ ] Lesson 032 - Creating a First Workflow
+- [ ] Lesson 033 - Running the First Workflow
+- [ ] Lesson 034 - Onwards to a More Realistic Example
+- [ ] Lesson 035 - A New Workflow & The "push" Event
+- [ ] Lesson 036 - Using Actions in Workflows
+- [ ] Lesson 037 - Checking Out Code in Workflows
+- [ ] Lesson 038 - Configuring Actions
+- [ ] Lesson 039 - Adding More Workflow Job Steps
+- [ ] Lesson 040 - Failing Workflows & Analyzing Workflows
+- [ ] Lesson 041 - Adding Multiple Jobs
+- [ ] Lesson 042 - Jobs: In Parallel vs Sequential
+- [ ] Lesson 043 - Using Multiple Triggers (Events)
+- [ ] Lesson 044 - Expressions & Context Objects
+- [ ] Lesson 045 - Module Summary
+- [ ] Lesson 046 - Time to Practice: The Problem
+- [ ] Lesson 047 - Time to Practice: Solution
 - [ ] Lesson 048
 - [ ] Lesson 049
 - [ ] Lesson 050
@@ -135,3 +136,7 @@
 - [ ] Lesson 130
 - [ ] Lesson 131
 - [ ] Lesson 132
+
+## Notes
+
+- `GitHub Actions` - a workflow automation service by GitHub
